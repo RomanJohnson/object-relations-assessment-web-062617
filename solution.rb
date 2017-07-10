@@ -1,6 +1,6 @@
 # Please copy/paste all three classes into this file to submit your solution!
 
-# OMFG I'm sooo fooked. I didn't even see the 'models' files until 20 min left in test.
+# OMFG I'm sooo fooked. 
 
 class Customer
   attr_accessor :first_name, :last_name
@@ -55,6 +55,8 @@ class Customer
     @all << self
   end
 end
+
+
 
 
 class Restaraunt
